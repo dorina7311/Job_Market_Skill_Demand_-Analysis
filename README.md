@@ -1,11 +1,11 @@
-# 🚀 Job Market Skill Demand Analytics
+#  Job Market Skill Demand Analytics
 
-## 📌 Introduction
+## Introduction
 This project focuses on analyzing job market trends to identify the most in-demand skills across various industries. The aim is to help students and professionals understand current hiring trends and prepare accordingly.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Identify the most demanded skills in the job market  
 - Analyze industry-wise skill requirements  
 - Understand location-based job trends  
@@ -13,7 +13,7 @@ This project focuses on analyzing job market trends to identify the most in-dema
 
 ---
 
-## 📊 Data Source
+## Data Source
 The dataset used in this project was collected from online job portals such as LinkedIn, Naukri, and Kaggle datasets.
 
 **Dataset includes:**
@@ -25,7 +25,7 @@ The dataset used in this project was collected from online job portals such as L
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 - Data Collection  
 - Data Cleaning (removing duplicates, handling missing values)  
 - Data Processing (splitting skills into categories)  
@@ -34,7 +34,7 @@ The dataset used in this project was collected from online job portals such as L
 
 ---
 
-## 📈 Analysis & Findings
+## Analysis & Findings
 - Python, SQL, and Excel are among the most demanded skills  
 - IT and Data Science industries show the highest hiring demand  
 - Metro cities like Bangalore, Mumbai, and Delhi have more opportunities  
@@ -42,14 +42,14 @@ The dataset used in this project was collected from online job portals such as L
 
 ---
 
-## 📊 Visualization
+## Visualization
 - Bar charts → Top skills  
 - Pie charts → Industry distribution  
 - Line charts → Trends  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -58,7 +58,7 @@ The dataset used in this project was collected from online job portals such as L
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
